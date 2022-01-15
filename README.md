@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @jmainzy, I'm a member of the **Muscogee (Creek) Nation** and a professional software developer
-- 👀  I’m interested in language preservation and revitalization, **cross-platform mobile development (Flutter!)**, and great mobile apps.
-- 🌱  I’m currently working on my React Native and React skills to broaden my horizons, though my heart truly lies with **Kotlin and Flutter**.
-- 💞️  I’m looking to collaborate on cross-platform mobile tools, especially if they're related to minority languages
+- 👀  I’m interested in **language preservation and revitalization, cross-platform mobile development**, and great mobile apps.
+- 🌱  Currently working to improve my Python and Postgres skills but my long-time favorites are **Kotlin and Flutter**.
+- 💻  I collaborate with the [Muscogee Language Foundation](https://github.com/muscogee-language-foundation) to build tools for language preservation and education
 - 📫  Send me a shoutout at julia@muscogeelanguage.org
 
 <!---
