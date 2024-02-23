@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @jmainzy, I'm a member of the **Muscogee (Creek) Nation** and a professional software developer
 - 👀  I’m interested in **language preservation and revitalization, cross-platform mobile development**, and great mobile apps.
 - 🌱  Skills include Python, Kotlin, and Flutter
-- ✍🏼  I am currently getting a Master's in Computational Linguistics at the University of Washington
+- ✍🏼  Pursuing a Master's in Computational Linguistics at the University of Washington
 - 💻  I collaborate with the [Muscogee Language Foundation](https://github.com/muscogee-language-foundation) to build tools for language preservation and education
 - 📫  Send me a shoutout at julia@muscogeelanguage.org
 
